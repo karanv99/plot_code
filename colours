@@ -1,0 +1,11 @@
+VIBGYOR_PAPER = {
+    "black":   "#000000",  # FG
+    "blue":    "#5f67a4",  # CG
+    "cyan":    "#79CCC8",  # DPD
+    "green":   "#7ECC79",  # pll
+    "pink":    "#CC79A7",  # pd
+    "orange":  "#D55E00",  # cb1
+    "red":     "#E41A1C",  # cb2
+    "yellow":  "#FBAF00",  # cb3
+    "brown":   "#8C510A",  # cb3
+}
